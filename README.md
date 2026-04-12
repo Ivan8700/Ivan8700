@@ -19,11 +19,6 @@ I am a Game Developer and Computer Scientist currently exploring the intersectio
 | **Supporting Cast** | `C`, `Python` |
 | **Specialties** | Algorithm Design, Heuristics, Complexity Analysis |
 
-### 🚀 What I'm Building
-
-* **Game Jams & Coursework:** Currently prototyping systems-heavy games.
-* **Individual Projects:** Focusing on engine-level architecture and performance.
-* **Algorithm Research:** I enjoy solving **NP-problems** and benchmarking heuristics to squeeze out every bit of efficiency.
 
 * ### 🕹️ Featured Projects
 
@@ -33,3 +28,5 @@ I am a Game Developer and Computer Scientist currently exploring the intersectio
 | **Numblitz** | ![Numblitz2026-02-2423-43-41-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/7b5cbd2d-a252-46aa-8a4d-5acdcf39c3a8) |  Mathematical Tower Defense |
 | **Starship-Survival** | ![AlienCrash2026-02-2422-50-33online-video-cutter com2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f755fe66-3ede-4f53-8980-d93bcc716635) | Tyrian-like game from game dev 1 course |
 | **Local search heuristic for even-load-balancing** | https://github.com/Ivan8700/Local-Search-C- | Each machine must have an even sum of jobs allocated to it (600 lines of code)|
+
+

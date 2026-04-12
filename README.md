@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ivan! 🎮 💻
 
-<!--
-**Ivan8700/Ivan8700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Game Developer and Computer Scientist currently exploring the intersection of high-performance algorithms and immersive gameplay.
 
-Here are some ideas to get you started:
+### 🎓 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **MSc. in Computer Game Development** | *Masaryk University, Czechia*
+    * Timeline: Feb 2025 – June 2027
+* **Completion of several additional CS courses** | *Open University of Israel*
+    * Timeline: Oct 2023 – June 2024
+* **B.Sc Mathematics with Computer Studies** | *Haifa University, Israel*
+    * Timeline: Jul 2020 – March 2024
+
+### 🛠️ Tech Stack & Inventory
+
+| Category | Technologies |
+| :--- | :--- |
+| **Main Languages** | `C++`, `C#` |
+| **Supporting Cast** | `C`, `Python` |
+| **Specialties** | Algorithm Design, Heuristics, Complexity Analysis |
+
+### 🚀 What I'm Building
+
+* **Game Jams & Coursework:** Currently prototyping systems-heavy games.
+* **Individual Projects:** Focusing on engine-level architecture and performance.
+* **Algorithm Research:** I enjoy solving **NP-problems** and benchmarking heuristics to squeeze out every bit of efficiency.
+
+* ### 🕹️ Featured Projects
+
+| Project | Preview | Description |
+| :--- | :--- | :--- |
+| **Tak Bojuj, ne?!** | ![Project Demo](https://img.itch.zone/aW1nLzI2MDE4MjMzLmdpZg==/original/s7n04u.gif) |https://bleskocvok.itch.io/tak-bojuj-ne 2026 FI game jam|
+| **Numblitz** | ![Numblitz2026-02-2423-43-41-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/7b5cbd2d-a252-46aa-8a4d-5acdcf39c3a8) |  Mathematical Tower Defense |
+| **Starship-Survival** | ![AlienCrash2026-02-2422-50-33online-video-cutter com2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f755fe66-3ede-4f53-8980-d93bcc716635) | Tyrian-like game from game dev 1 course |
+| **Local search heuristic for even-load-balancing** | https://github.com/Ivan8700/Local-Search-C- | Each machine must have an even sum of jobs allocated to it (600 lines of code)|

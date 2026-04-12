@@ -20,7 +20,7 @@ I am a Game Developer and Computer Scientist currently exploring the intersectio
 | **Specialties** | Algorithm Design, Heuristics, Complexity Analysis |
 
 
-* ### 🕹️ Featured Projects
+### 🕹️ Featured Projects
 
 | Project | Preview | Description |
 | :--- | :--- | :--- |
